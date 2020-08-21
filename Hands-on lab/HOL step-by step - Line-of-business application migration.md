@@ -355,7 +355,7 @@ In this task, you will use Azure Migrate to create a migration assessment for th
 13. Take a few minutes to explore other aspects of the migration assessment. Check why the UbuntuWAF is marked as 'conditionally ready for Azure', and explore the costs associated with the migration.
 
 #### Task summary 
-
+ 
 In this task you created and configured an Azure Migrate migration assessment.
 
 ### Task 5: Configure dependency visualization
